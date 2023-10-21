@@ -10,7 +10,7 @@ function fibonacci(number) {
     }
 }
 
-let numbers = prompt("Введите число, на котором следует остановиться:")
+let numbers = prompt("Write any number:")
 fibonacci(numbers)
 
 
